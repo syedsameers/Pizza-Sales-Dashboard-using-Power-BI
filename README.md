@@ -54,7 +54,7 @@ This project showcases a **Pizza Sales Dashboard** built using **SQL** for data 
 
 ### 🔹 Sales Overview
 
-![Pizza Sales Dashboard – Overview] (https://github.com/syedsameers/Pizza-Sales-Dashboard-using-Power-BI/blob/main/Pizza%20Sales%20Dashboard%201.png)
+![Pizza Sales Dashboard – Overview](https://github.com/syedsameers/Pizza-Sales-Dashboard-using-Power-BI/blob/main/Pizza%20Sales%20Dashboard%201.png)
 
 ### 🔹 Best/Worst Sellers
 
